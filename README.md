@@ -17,3 +17,5 @@ The program deletes all files in the %TEMP% folder and the temporary folder. Aft
 
 Why would you use it?
 This program is useful because it helps free up space on your PC at every restart, and it operates automatically, saving you time and effort.
+
+**NOTE:** You don’t have to use it at startup; you can also run the .exe/.py file manually to clean up your system whenever needed.
